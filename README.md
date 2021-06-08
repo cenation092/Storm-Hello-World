@@ -1,7 +1,7 @@
 # Storm-Hello-World
 
 ```
-[Problem]: Write a topology to just append World to the end of given stream, and also write contents to file to see the result.
+[Problem]: Write a topology to just multiple a number with 2 to the given stream of numbers.
 ```
 
 Apache Storm is a distributed stream processing computation framework.

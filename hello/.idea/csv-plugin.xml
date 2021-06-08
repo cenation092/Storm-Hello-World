@@ -3,21 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/helloworld/pom.xml">
+        <entry key="/src/main/java/IntegerSpout.java">
           <value>
             <Attribute>
-              <option name="separator" value=":" />
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/helloworldcount/pom.xml">
+        <entry key="/src/main/java/MainTopology.java">
           <value>
             <Attribute>
-              <option name="separator" value=":" />
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
-        <entry key="/world/src/main/java/HelloWorldBolt.java">
+        <entry key="/src/main/java/MultiplierBolt.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

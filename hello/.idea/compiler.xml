@@ -6,16 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="helloworld" />
         <module name="hello" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="hello" target="8" />
-      <module name="helloworld" target="8" />
-      <module name="HelloWorld" target="8" />
-      <module name="helloworldcount" target="8" />
-      <module name="storm-starter" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
